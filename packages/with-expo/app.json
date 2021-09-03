@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "with-expo",
-    "slug": "with-expo",
+    "name": "Pokedex with @skynexui",
+    "slug": "pokedex-skynexui",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
